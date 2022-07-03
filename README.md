@@ -1,4 +1,4 @@
-<a><img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://kin-archive.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkin-archive.tistory.com&count_bg=%233D91C8&title_bg=%23555555&icon=pocket.svg&icon_color=%23E7E7E7&title=Tstory+blog+counting+From+July.2022&edge_flat=false"/></a>
 
 <!--
