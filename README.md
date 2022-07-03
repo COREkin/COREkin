@@ -4,4 +4,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Frontend and DevOps for Softbank.Corp
 
+<!-- Top Languages card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin)](https://github.com/COREkin/github-readme-stats)
+<!-- Github stats-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=COREkin)](https://github.com/COREkin/github-readme-stats)
