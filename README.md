@@ -5,8 +5,6 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Frontend and DevOps for Softbank.Corp
 
-<center>
 <!-- Top Languages card , Github stats-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)](https://github.com/COREkin/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=COREkin&theme=dracula)](https://github.com/COREkin/github-readme-stats)
-</center>
