@@ -16,9 +16,10 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)](https://github.com/COREkin/github-readme-stats)
 -->
-</div>
 
 ---
+
+</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=COREkin&theme=dracula">
 <!-- 
