@@ -3,7 +3,6 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10">
 
   ### 🏆 DONGSIK KIM 👨‍💻
-
  ---
 
  <a href="https://www.linkedin.com/in/dongsik-kim-b1725b194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
