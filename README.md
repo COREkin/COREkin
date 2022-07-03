@@ -22,7 +22,7 @@
 
 <div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=COREkin&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=COREkin&theme=dracula">
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=COREkin&theme=dracula)](https://github.com/COREkin/github-readme-stats)
 -->
