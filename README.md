@@ -12,7 +12,7 @@
  <a><img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 
  
 
