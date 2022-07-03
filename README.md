@@ -1,6 +1,5 @@
 <div align="center">
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10">
 
 ### 🏆 DONGSIK KIM 👨‍💻
  ---
@@ -15,6 +14,8 @@
  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10">
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COREkin&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)](https://github.com/COREkin/github-readme-stats)
